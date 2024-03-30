@@ -106,11 +106,11 @@ This KeyAuth Interface is Prepared for FiveM. However, you can use it in differe
 
 If you are going to try it as standard
 - Username: `fivem`
-- Password: You can find out by pressing Forgot Password
+- Password: You can find out by pressing `Forgot Password`
 
 Create a New KeyAuth Account for Yourself.
 
-On line 17 of Login.cs and Main.cs
+On `line 17` of `Login.cs` and `Main.cs`
 
 ```c++
 public static api KeyAuthApp = new api(
