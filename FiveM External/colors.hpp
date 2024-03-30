@@ -25,9 +25,6 @@ namespace colors {
 
 #if defined(COLORS_USE_WINDOWS_API)
     inline void wset_attributes(int foreground, int background = -1) {
-        // some comments because its windows :/
-
-        // for save default attributes of output
         static WORD defaultAttributes = 0;
 
         // get the terminal handle
