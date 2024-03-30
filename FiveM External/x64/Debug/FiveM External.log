@@ -1,0 +1,237 @@
+﻿  ****  Online  ****
+    000000  ...
+    195920
+  CertUtil: -URLCache command completed successfully.
+  elements.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\memory.h(37,87): warning C4244: 'bağımsız değişken': 'uintptr_t' - 'DWORD' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\include.h(27,21): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\main.hpp(92,42): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\main.hpp(101,45): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\main.hpp(101,38): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\main.hpp(101,31): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\main.hpp(104,36): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\main.hpp(105,45): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\main.hpp(106,42): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\main.hpp(116,33): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(29,81): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(31,108): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(33,106): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(35,126): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(37,126): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(39,108): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(41,110): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(43,90): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(70,50): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(77,51): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(84,74): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(85,107): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(86,107): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(87,91): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(94,47): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(108,50): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(108,78): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(113,54): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(143,34): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(143,27): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(145,45): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(145,30): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(159,45): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(159,33): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(161,55): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\Render.hpp(161,36): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(39,18): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(40,18): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(99,40): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(103,36): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(157,30): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(158,29): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(165,77): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(169,71): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(174,113): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(174,173): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(185,37): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(186,53): warning C4552: '/': ifade sonucu kullanılmıyor
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(199,37): warning C4244: 'başlatılıyor': 'unsigned __int64' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(227,82): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(227,53): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(228,82): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(228,53): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(228,139): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(235,37): warning C4244: 'başlatılıyor': 'unsigned __int64' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\esp.hpp(260,37): warning C4244: 'başlatılıyor': 'unsigned __int64' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\aimbot.hpp(80,29): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\aimbot.hpp(83,29): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\aimbot.hpp(136,57): warning C4244: 'bağımsız değişken': 'float' - 'DWORD' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\aimbot.hpp(136,41): warning C4244: 'bağımsız değişken': 'float' - 'DWORD' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\exploit.h(104,46): warning C4305: 'bağımsız değişken': 'double' iken 'T' olarak kesildi
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\exploit.h(104,46): warning C4305:         with
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\exploit.h(104,46): warning C4305:         [
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\exploit.h(104,46): warning C4305:             T=float
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\exploit.h(104,46): warning C4305:         ]
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\exploit.h(167,7): warning C4551: işlev çağrısında bağımsız değişken listesi eksik
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\trigger.hpp(53,34): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\trigger.hpp(98,34): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\main.cpp(96,48): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\main.cpp(96,34): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  user_interface.cpp
+  Kod Üretiliyor...
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\exploit.h(222,1): warning C4715: 'Player::GetArmor': tüm denetim yolları değer döndürmez
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\exploit.h(228,1): warning C4715: 'Player::GetMaxHealth': tüm denetim yolları değer döndürmez
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\exploit.h(216,1): warning C4715: 'Player::GetHealth': tüm denetim yolları değer döndürmez
+D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\FiveM External\main.cpp(559,1): warning C4715: 'initialize': tüm denetim yolları değer döndürmez
+glew32s.lib(glew.obj) : warning LNK4099: PDB '', 'glew32s.lib(glew.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(init.obj) : warning LNK4099: PDB '', 'glfw3.lib(init.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '', 'glfw3.lib(monitor.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(window.obj) : warning LNK4099: PDB '', 'glfw3.lib(window.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(input.obj) : warning LNK4099: PDB '', 'glfw3.lib(input.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '', 'glfw3.lib(win32_window.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(context.obj) : warning LNK4099: PDB '', 'glfw3.lib(context.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '', 'glfw3.lib(win32_init.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '', 'glfw3.lib(win32_monitor.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '', 'glfw3.lib(win32_joystick.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '', 'glfw3.lib(win32_time.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '', 'glfw3.lib(win32_thread.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '', 'glfw3.lib(vulkan.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '', 'glfw3.lib(wgl_context.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '', 'glfw3.lib(egl_context.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '', 'glfw3.lib(osmesa_context.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+LINK : warning LNK4098: defaultlib 'LIBCMT' diğer kitaplıkların kullanımı ile çakışıyor; /NODEFAULTLIB:library kullanın
+  FiveM External.vcxproj -> D:\GitHub\projelerv2\Game-Hacks\FiveM\ActiveBypass\x64\Debug\FiveM External.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
