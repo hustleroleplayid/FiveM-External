@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("FiveM")]
 [assembly: AssemblyCompany("KeyAuth LLC")]
 [assembly: AssemblyProduct("Loader")]
-[assembly: AssemblyCopyright("Copyright © KeyAuth")]
+[assembly: AssemblyCopyright("Copyright © 2024 KeyAuth")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
