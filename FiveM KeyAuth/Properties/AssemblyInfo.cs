@@ -3,7 +3,6 @@ using System.Resources;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-
 [assembly: AssemblyTitle("FiveM KeyAuth")]
 [assembly: AssemblyDescription("KeyAuth Loader")]
 [assembly: AssemblyConfiguration("FiveM")]
