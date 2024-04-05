@@ -28,9 +28,9 @@ const std::string compilation_time = (std::string)skCrypt(__TIME__);
 
 using namespace KeyAuth;
 
-auto name = skCrypt("zeskontop");
-auto ownerid = skCrypt("utaqBe5OEv");
-auto secret = skCrypt("6022db9e27001d5bb02970952f9dbd001c114a188bee10a2e6fed800187574bf");
+auto name = skCrypt("example");
+auto ownerid = skCrypt("example");
+auto secret = skCrypt("example");
 auto version = skCrypt("1.0");
 
 auto url = skCrypt("https://keyauth.win/api/1.2/"); // change if you're self-hosting
@@ -381,8 +381,8 @@ void Render() {
 
 			ImGui::SetCursorPos({ 25, 85 });
 			ImGui::BeginChild(skCrypt("##container"), ImVec2(190, 275), false, ImGuiWindowFlags_NoScrollbar); {
-				ImGui::Checkbox(skCrypt("God Mode"), &ex_godmode);
-				ImGui::Checkbox(skCrypt("Semi GodMode"), &ex_semigodmode);
+				ImGui::Checkbox(skCrypt("God Mode (Risk)"), &ex_godmode);
+				ImGui::Checkbox(skCrypt("Semi GodMode V2"), &ex_semigodmode);
 				ImGui::Checkbox(skCrypt("Run Speed"), &ex_runspeed_on);
 				ImGui::Checkbox(skCrypt("Vehicle Acceleration"), &ex_vehicleaceleration);
 				ImGui::Checkbox(skCrypt("Vehicle GodMode"), &ex_vehiclegodmode);
@@ -587,3 +587,6 @@ int main() {
 	initialize();
 
 }
+
+
+// Copyright chres0 2024. All rights reserved
